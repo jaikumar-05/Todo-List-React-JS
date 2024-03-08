@@ -1,7 +1,7 @@
 # Todo List Project
 
 ## Overview
-This is a simple todo list application built with ReactJS.
+This is a Advance todo list application built with ReactJS.
 
 ## Features
 - Add tasks
